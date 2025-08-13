@@ -1,0 +1,16 @@
+{
+  "name": "countdown-bot",
+  "version": "1.0.0",
+  "description": "Discord countdown bot for Admin Abuse Friday & Taco Tuesday",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
